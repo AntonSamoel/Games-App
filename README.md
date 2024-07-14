@@ -1,6 +1,6 @@
 # 🎮 Games App CRUD Operations
 
-![Games App](https://via.placeholder.com/150)
+![Games App](https://media.cnn.com/api/v1/images/stellar/prod/i-stock-1287493837-1.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp)
 
 A basic games app designed and implemented using ASP.NET Web MVC, providing essential CRUD (Create, Read, Update, Delete) operations. Utilized Entity Framework for database management with a Code First approach and SQL Server for data storage.
 
@@ -33,8 +33,6 @@ A basic games app designed and implemented using ASP.NET Web MVC, providing esse
 - **Delete:** Remove game records from the database.
 
 ---
-
-## 🛠️ Setup and Installation
 
 ### Prerequisites
 
